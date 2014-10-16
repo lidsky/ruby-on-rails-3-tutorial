@@ -1,1 +1,1 @@
-Learning Ruby
+Learning Ruby based on [this book](https://www.railstutorial.org/book)
